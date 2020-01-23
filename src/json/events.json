@@ -1,0 +1,190 @@
+[
+  {
+    "name": "Tuesday at Dewitt Park",
+    "location": "N. Cayuga St. and E. Buffalo St.",
+    "mapsLocation": "https://goo.gl/maps/rTRksvrfuyyB9k658",
+    "date": "Dec 9, 2019",
+    "week": "1",
+    "time": "9am-2pm",
+    "events": []
+  },
+
+  {
+    "name": "Wednesday at East Hill Plaza",
+    "location": "380 Pine Tree Rd., Ithaca NY",
+    "mapsLocation": "https://goo.gl/maps/tGngrRRMjDgMhRpk9",
+    "date": "Dec 10, 2019",
+    "week": "1",
+    "time": "4pm-7pm",
+    "events": []
+  },
+  {
+    "name": "Saturday at the Pavillion",
+    "location": "Steamboat Landing, 545 3rd St, Ithaca, NY 14850",
+    "mapsLocation": "https://goo.gl/maps/WvZcPe9Q4ct6tpaK7",
+    "date": "Dec 14, 2019",
+    "week": "1",
+    "time": "9am-3pm",
+    "events": ["Apple Tasting"]
+  },
+  {
+    "name": "Sunday at the Pavillion",
+    "location": "Steamboat Landing, 545 3rd St, Ithaca, NY 14850",
+    "mapsLocation": "https://goo.gl/maps/WvZcPe9Q4ct6tpaK7",
+    "date": "Dec 15, 2019",
+    "week": "1",
+    "time": "10am-3pm",
+    "events": ["Tomato Tasting"]
+  },
+
+  {
+    "name": "Tuesday at Dewitt Park",
+    "location": "N. Cayuga St. and E. Buffalo St.",
+    "mapsLocation": "https://goo.gl/maps/rTRksvrfuyyB9k658",
+    "date": "Dec 17, 2019",
+    "week": "2",
+    "time": "9am-2pm",
+    "events": []
+  },
+  {
+    "name": "Wednesday at East Hill Plaza",
+    "location": "380 Pine Tree Rd., Ithaca NY",
+    "mapsLocation": "https://goo.gl/maps/tGngrRRMjDgMhRpk9",
+    "date": "Dec 18, 2019",
+    "week": "2",
+    "time": "4pm-7pm",
+    "events": []
+  },
+  {
+    "name": "Saturday at the Pavillion",
+    "location": "Steamboat Landing, 545 3rd St, Ithaca, NY 14850",
+    "mapsLocation": "https://goo.gl/maps/WvZcPe9Q4ct6tpaK7",
+    "date": "Dec 21, 2019",
+    "week": "2",
+    "time": "10am-2pm",
+    "events": ["Acapella"]
+  },
+  {
+    "name": "Sunday at the Pavillion",
+    "location": "Steamboat Landing, 545 3rd St, Ithaca, NY 14850",
+    "mapsLocation": "https://goo.gl/maps/WvZcPe9Q4ct6tpaK7",
+    "date": "Dec 22, 2019",
+    "week": "2",
+    "time": "10am-2pm",
+    "events": ["Local Band"]
+  },
+
+  {
+    "name": "Saturday at the Pavillion",
+    "location": "Steamboat Landing, 545 3rd St, Ithaca, NY 14850",
+    "mapsLocation": "https://goo.gl/maps/WvZcPe9Q4ct6tpaK7",
+    "date": "Dec 28, 2019",
+    "week": "3",
+    "time": "10am-2pm",
+    "events": ["Cider Tasting"]
+  },
+  {
+    "name": "Sunday at the Pavillion",
+    "location": "Steamboat Landing, 545 3rd St, Ithaca, NY 14850",
+    "mapsLocation": "https://goo.gl/maps/WvZcPe9Q4ct6tpaK7",
+    "date": "Dec 29, 2019",
+    "week": "3",
+    "time": "10am-2pm",
+    "events": ["Hot Chocolate Special"]
+  },
+
+  {
+    "name": "Saturday at the Pavillion",
+    "location": "Steamboat Landing, 545 3rd St, Ithaca, NY 14850",
+    "mapsLocation": "https://goo.gl/maps/WvZcPe9Q4ct6tpaK7",
+    "date": "Jan 4, 2020",
+    "week": "4",
+    "time": "10am-2pm",
+    "events": ["Local Band"]
+  },
+  {
+    "name": "Sunday at the Pavillion",
+    "location": "Steamboat Landing, 545 3rd St, Ithaca, NY 14850",
+    "mapsLocation": "https://goo.gl/maps/WvZcPe9Q4ct6tpaK7",
+    "date": "Jan 5, 2020",
+    "week": "4",
+    "time": "10am-2pm",
+    "events": ["Acapella"]
+  },
+
+  {
+    "name": "Saturday at the Pavillion",
+    "location": "Steamboat Landing, 545 3rd St, Ithaca, NY 14850",
+    "mapsLocation": "https://goo.gl/maps/WvZcPe9Q4ct6tpaK7",
+    "date": "Jan 11, 2020",
+    "week": "5",
+    "time": "10am-2pm",
+    "events": ["Pie Sale"]
+  },
+  {
+    "name": "Sunday at the Pavillion",
+    "location": "Steamboat Landing, 545 3rd St, Ithaca, NY 14850",
+    "mapsLocation": "https://goo.gl/maps/WvZcPe9Q4ct6tpaK7",
+    "date": "Jan 12, 2020",
+    "week": "5",
+    "time": "10am-2pm",
+    "events": ["Cheese Tasting"]
+  },
+
+  {
+    "name": "Saturday at the Pavillion",
+    "location": "Steamboat Landing, 545 3rd St, Ithaca, NY 14850",
+    "mapsLocation": "https://goo.gl/maps/WvZcPe9Q4ct6tpaK7",
+    "date": "Jan 18, 2020",
+    "week": "6",
+    "time": "10am-2pm",
+    "events": []
+  },
+  {
+    "name": "Sunday at the Pavillion",
+    "location": "Steamboat Landing, 545 3rd St, Ithaca, NY 14850",
+    "mapsLocation": "https://goo.gl/maps/WvZcPe9Q4ct6tpaK7",
+    "date": "Jan 19, 2020",
+    "week": "6",
+    "time": "10am-2pm",
+    "events": ["Holiday Decor Sale"]
+  },
+
+  {
+    "name": "Saturday at the Pavillion",
+    "location": "Steamboat Landing, 545 3rd St, Ithaca, NY 14850",
+    "mapsLocation": "https://goo.gl/maps/WvZcPe9Q4ct6tpaK7",
+    "date": "Jan 25, 2020",
+    "week": "7",
+    "time": "10am-2pm",
+    "events": ["Hot Chocolate Special"]
+  },
+  {
+    "name": "Sunday at the Pavillion",
+    "location": "Steamboat Landing, 545 3rd St, Ithaca, NY 14850",
+    "mapsLocation": "https://goo.gl/maps/WvZcPe9Q4ct6tpaK7",
+    "date": "Jan 26, 2020",
+    "week": "7",
+    "time": "10am-2pm",
+    "events": ["Acapella"]
+  },
+
+  {
+    "name": "Saturday at the Pavillion",
+    "location": "Steamboat Landing, 545 3rd St, Ithaca, NY 14850",
+    "mapsLocation": "https://goo.gl/maps/WvZcPe9Q4ct6tpaK7",
+    "date": "Feb 1, 2020",
+    "week": "8",
+    "time": "10am-2pm",
+    "events": ["Local Band"]
+  },
+  {
+    "name": "Sunday at the Pavillion",
+    "location": "Steamboat Landing, 545 3rd St, Ithaca, NY 14850",
+    "mapsLocation": "https://goo.gl/maps/WvZcPe9Q4ct6tpaK7",
+    "date": "Feb 2, 2020",
+    "week": "8",
+    "time": "10am-2pm",
+    "events": ["Wine Tasting"]
+  }
+]

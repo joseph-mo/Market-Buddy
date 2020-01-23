@@ -1,0 +1,42 @@
+[
+  {
+    "motivation_name": "Fun with friends",
+    "imgURL": "fun"
+  },
+  {
+    "motivation_name": "Fresh veggies",
+    "imgURL": "veggies"
+  },
+  {
+    "motivation_name": "Good coffee",
+    "imgURL": "coffee"
+  },
+  {
+    "motivation_name": "A tasty meal/treat",
+    "imgURL": "meal"
+  },
+  {
+    "motivation_name": "A great day outside",
+    "imgURL": "outside"
+  },
+  {
+    "motivation_name": "A unique gift",
+    "imgURL": "gift"
+  },
+  {
+    "motivation_name": "Local artisanal goods",
+    "imgURL": "artisanal"
+  },
+  {
+    "motivation_name": "Cider donut",
+    "imgURL": "donut"
+  },
+  {
+    "motivation_name": "Picture by the pier",
+    "imgURL": "pier"
+  },
+  {
+    "motivation_name": "Live Performance",
+    "imgURL": "performance"
+  }
+]

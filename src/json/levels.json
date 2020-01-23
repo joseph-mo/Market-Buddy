@@ -1,0 +1,22 @@
+[
+    {"num": 1, 
+        "message": "Hooray! You completed your very first trip to the market!", "color":"#69075D"},
+    {"num": 2, 
+        "message": "Amazing! You supported the Farmers Market again!", "color":"#0A5B5D"},
+    {"num": 3, 
+        "message": "Third times the charm! Next time, try checking out a vendor you've never explored before!", "color":"#760707"},
+    {"num": 4,
+        "message": "Yay! Now you're shopping like a local.", "color":"#03371F"},
+    {"num": 5,
+        "message": "Thanks for giving back to your community! Next time, why not introduce yourself to a vendor?", "color":"#900C3F"},
+    {"num": 6,
+        "message": "You're becoming a real Market maven! Keep up the support.", "color":"#191975"},
+    {"num": 7,
+        "message": "You are great at achieving your goals! Next time, take a friend and show them your favorite things!", "color":"#925F17"},
+    {"num": 8,
+        "message": "Way to keep supporting your local Farmers Market!", "color":"#064D08"},
+    {"num": 9,
+        "message": "Hooray for the Market! Next time, try a new food for the first time!", "color":"#4F2653"},
+    {"num": 10,
+        "message": "You're a Market regular! You're truly supporting your local community.", "color":"#B12A59"}
+]
